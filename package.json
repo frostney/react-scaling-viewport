@@ -1,0 +1,20 @@
+{
+  "name": "react-scaling-viewport",
+  "version": "1.0.0",
+  "description": ":tv: React viewport component that scales based on the window size",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frostney/react-scaling-viewport.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frostney/react-scaling-viewport/issues"
+  },
+  "homepage": "https://github.com/frostney/react-scaling-viewport#readme"
+}
